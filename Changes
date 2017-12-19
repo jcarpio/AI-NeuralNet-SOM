@@ -1,0 +1,8 @@
+Revision history for Perl extension AI::NeuralNet::SOM.
+
+0.01  Tue Aug 22 19:00:29 2000
+	- original version; created by h2xs 1.20 with options
+		-X -n AI::NeuralNet::SOM
+
+0.02  Wed Oct 04 22:22:10 2000
+	- fixed bugs in "load" method and added new method "umatrix", by Voischev Alexander
